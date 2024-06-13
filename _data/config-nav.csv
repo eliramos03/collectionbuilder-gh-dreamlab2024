@@ -1,10 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
+View Collection,/browse.html
+Browse by...,
+Building type,/subjects.html, Browse by...,
+Neighborhoods,/locations.html, Browse by...,
 Map,/map.html
-Timeline,/timeline.html
 Data,/data.html
 About,/about.html
-TimelineJS,/timelinejs.html
+Timeline,/timelinejs.html
