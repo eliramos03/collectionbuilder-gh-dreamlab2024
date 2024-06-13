@@ -1,7 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/
 View Collection,/browse.html
-Browse by, Building type,/subjects.html, Neighborhoods,/locations.html
+Browse by,,
+Building type,/subjects.html,Browse by
+Neighborhoods,/locations.html,Browse by
 Map,/map.html
 Data,/data.html
 About,/about.html
